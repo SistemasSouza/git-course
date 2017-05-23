@@ -1,3 +1,3 @@
-Git Course 23/05/2017
+Git Course
 
-Testando a funcionalidade diff
+Curso Git e GitHub
